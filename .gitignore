@@ -1,0 +1,28 @@
+### System  Dependency  ###
+**/.DS_Store
+**/bin
+**/*.*~
+vcs.xml
+workspace.xml
+
+### compiled source ###
+target
+tomcat
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+**/*.log
+
+### Eclipse Setting ###
+.metadata
+.settings
+.classpath
+.project
+.factorypath
+test-output
+user.properties
+**/.apt_generated/**
